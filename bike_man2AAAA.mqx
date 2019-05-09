@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MetasequoiaDocument>
+    <IncludedBy>bike_man2AAAA.mqo</IncludedBy>
+    <Plugin.56A31D20.71F282AB name="ボーン">
+        <BoneSet fxLim="0" wtNorm="1" skn="0" list="1" boneConf="0">
+            <Bone id="1" rtX="-0.07659554" rtY="106.03824" rtZ="28.450172" tpX="-0.91536176" tpY="160.11928" tpZ="30.219112" rotB="0.0000000" rotH="-0.00000000" rotP="0.00000021" angB="0.0000000" angH="0.0000000" angP="0.0000000" mvX="0.0000000" mvY="0.0000000" mvZ="0.0000000" scX="1.0000000" scY="1.0000000" scZ="1.0000000" wMvX="0.0000000" wMvY="0.0000000" wMvZ="0.0000000" wRotB="0.0000000" wRotH="0.0000000" wRotP="-0.0000000" wScRootX="13.529116" wScRootY="13.529116" wScRootZ="13.529116" wScTipX="13.529116" wScTipY="13.529116" wScTipZ="13.529116" wStRoot="50.000000" wStTip="50.000000" wWid="54.116463" maxAngB="180.00000" maxAngH="180.00000" maxAngP="180.00000" minAngB="-180.00000" minAngH="-180.00000" minAngP="-180.00000" IKChain="0" isIK="0" IKParent="0" IKParentIsIK="0" isDummy="0" isLock="0" isHide="0" isMirror="0" isMovable="1" isNoSize="0" name="bone1" tip_name="bone1_end" ik_name="bone1_IK" ik_tip_name="bone1_IK_end" tip_id="2" upVec="0.0000000" col="ff25a85e" group="0">
+                <P id="0"/>
+                <C id="2"/>
+                <C id="3"/>
+                <L m="100.00000" s="100.00000" r="100.00000"/>
+            </Bone>
+            <Bone id="2" rtX="-0.91536176" rtY="160.11928" rtZ="30.219112" tpX="-68.741425" tpY="162.45462" tpZ="29.635109" rotB="-0.0000000" rotH="0.0000000" rotP="-0.00000005" angB="0.0000000" angH="0.0000000" angP="0.0000000" mvX="0.0000000" mvY="0.0000000" mvZ="0.0000000" scX="1.0000000" scY="1.0000000" scZ="1.0000000" wMvX="0.0000000" wMvY="0.0000000" wMvZ="0.0000000" wRotB="0.0000000" wRotH="0.0000000" wRotP="-0.0000000" wScRootX="16.967192" wScRootY="16.967192" wScRootZ="16.967192" wScTipX="16.967192" wScTipY="16.967192" wScTipZ="16.967192" wStRoot="50.000000" wStTip="50.000000" wWid="67.868767" maxAngB="180.00000" maxAngH="180.00000" maxAngP="180.00000" minAngB="-180.00000" minAngH="-180.00000" minAngP="-180.00000" IKChain="0" isIK="0" IKParent="0" IKParentIsIK="0" isDummy="0" isLock="0" isHide="0" isMirror="0" isMovable="1" isNoSize="0" name="bone2" tip_name="bone2_end" ik_name="bone2_IK" ik_tip_name="bone2_IK_end" tip_id="0" upVec="0.0000000" col="ff8b3c2e" group="0">
+                <P id="1"/>
+                <L m="100.00000" s="100.00000" r="100.00000"/>
+            </Bone>
+            <Bone id="3" rtX="-0.91536176" rtY="160.11928" rtZ="30.219112" tpX="76.294579" tpY="162.14972" tpZ="28.660286" rotB="0.0000000" rotH="0.00000021" rotP="-0.0000000" angB="0.0000000" angH="0.0000000" angP="0.0000000" mvX="0.0000000" mvY="0.0000000" mvZ="0.0000000" scX="1.0000000" scY="1.0000000" scZ="1.0000000" wMvX="0.0000000" wMvY="0.0000000" wMvZ="0.0000000" wRotB="0.0000000" wRotH="0.0000000" wRotP="-0.0000000" wScRootX="19.313089" wScRootY="19.313089" wScRootZ="19.313089" wScTipX="19.313089" wScTipY="19.313089" wScTipZ="19.313089" wStRoot="50.000000" wStTip="50.000000" wWid="77.252357" maxAngB="180.00000" maxAngH="180.00000" maxAngP="180.00000" minAngB="-180.00000" minAngH="-180.00000" minAngP="-180.00000" IKChain="0" isIK="0" IKParent="0" IKParentIsIK="0" isDummy="0" isLock="0" isHide="0" isMirror="0" isMovable="1" isNoSize="0" name="bone3" tip_name="bone3_end" ik_name="bone3_IK" ik_tip_name="bone3_IK_end" tip_id="0" upVec="0.0000000" col="ff6372e6" group="0">
+                <P id="1"/>
+                <L m="100.00000" s="100.00000" r="100.00000"/>
+            </Bone>
+        </BoneSet>
+        <Poses isExist="0"/>
+        <Poses isExist="0"/>
+        <Poses isExist="0"/>
+    </Plugin.56A31D20.71F282AB>
+</MetasequoiaDocument>
